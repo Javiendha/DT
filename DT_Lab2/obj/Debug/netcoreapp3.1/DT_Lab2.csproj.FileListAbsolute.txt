@@ -1,0 +1,14 @@
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\bin\Debug\netcoreapp3.1\DT_Lab2.exe
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\bin\Debug\netcoreapp3.1\DT_Lab2.deps.json
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\bin\Debug\netcoreapp3.1\DT_Lab2.runtimeconfig.json
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\bin\Debug\netcoreapp3.1\DT_Lab2.runtimeconfig.dev.json
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\bin\Debug\netcoreapp3.1\DT_Lab2.dll
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\bin\Debug\netcoreapp3.1\DT_Lab2.pdb
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\obj\Debug\netcoreapp3.1\DT_Lab2.csproj.AssemblyReference.cache
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\obj\Debug\netcoreapp3.1\DT_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\obj\Debug\netcoreapp3.1\DT_Lab2.AssemblyInfoInputs.cache
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\obj\Debug\netcoreapp3.1\DT_Lab2.AssemblyInfo.cs
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\obj\Debug\netcoreapp3.1\DT_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\obj\Debug\netcoreapp3.1\DT_Lab2.dll
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\obj\Debug\netcoreapp3.1\DT_Lab2.pdb
+C:\Users\Yulia\source\repos\DT_Lab1\DT_Lab2\obj\Debug\netcoreapp3.1\DT_Lab2.genruntimeconfig.cache
